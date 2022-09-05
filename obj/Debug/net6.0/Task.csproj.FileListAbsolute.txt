@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\bin\Debug\net6.0\Task.exe
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\bin\Debug\net6.0\Task.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Учеба\Домашние задания\Итоговая проверочная работа курс выбор специализации\Task\obj\Debug\net6.0\ref\Task.dll
